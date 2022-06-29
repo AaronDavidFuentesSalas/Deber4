@@ -15,13 +15,12 @@
 
 1.1. OBJETIVO GENERAL
 
-•	Analizar y solucionar circuitos a través del método de superposición haciendo uso de las leyes o pasos que se deben seguir para poder encontrar: voltajes, corrientes que pasa por un resistor cuando se tienen dos o mas suministros de energía.
+•	Estudiar diferentes metodos usados para poder encontrar corrientes y voltajes cuando tenemos circuito un poco mas complejos como el metodo de superposicion, teorema de Norton y teorema de Thevenin, tambien haremos udo de conversion Delta a Y y de Y a Delta.
 
 1.2. OBJETIVOS ESPECIFICOS
 
-•	Hacer uso de las ventajas que nos brinda este método en la resolución de ejercicios cambiando las fuentes de voltaje por cortos y las fuentes de corriente por un circuito abierto, y comparar como este método reduce la cantidad de cálculos que se deben hacer cuando se usan otros tipos de métodos.
-
-•	Comparar los resultados obtenidos a través del simulador con los valores reales obtenidos en el circuito físico.
+•	Aplicar los nuevos metodos y teoremas para la resoluciones de ejercicios y hacer poder disminiuir la complejidad de un circuito
+•	Leer y entender como funcionan estos metodos y en que casos su uso es mas favorecible que otros metodos como analisis de mallas o tensiones en los nodos ya que estos metodos tambien pueden llegar a servir mucho en ciertos casos.
 
 2. MARCO TEORICO
    
@@ -29,23 +28,18 @@ Teorema de superposición
 
 Según (Unicrom,2020) “El teorema de superposición establece que, el efecto dos o más fuentes de voltaje y/o corriente tienen sobre un punto cualquiera en un circuito lineal, es igual a la suma de cada uno de los efectos de cada fuente tomados por separado, sustituyendo todas las fuentes de voltaje restantes por un corto circuito y las fuentes de corriente por circuitos abiertos”.
 
-Cortocircuito
+Teorema de Thevenin
 
-Un cortocircuito es una conexión entre dos terminales de un elemento de un circuito eléctrico, que provoca una anulación parcial o total de la resistencia en el circuito y que da como resultado un aumento en la intensidad de corriente que lo atraviesa.
+Con el teorema de Thevenin podemos resolver un circuito haciendo un circuito equivalente pequeño con una resistencia y una fuente de tensión en serie cuyos valores son llamados resistencia de thevenin y tensión de thevenin
 
-![image](https://user-images.githubusercontent.com/105386939/176063118-28b53531-3a3e-4ddd-a1c3-4a86067209b9.png)
+![image](https://user-images.githubusercontent.com/105386939/176520391-4cdc1221-f01a-4302-99ad-59bd3dc7b863.png)
 
-Circuito Abierto
+Teorema de Norton
 
-Un circuito abierto es un tipo de circuito eléctrico que tiene algún tipo de abertura o espacio a lo largo del circuito que hace que la corriente ya no fluya correctamente. Esto contrasta con un circuito cerrado que se ha diseñado e implementado adecuadamente para permitir que fluya la corriente eléctrica.
+El teorema de Norton nos dice que podemos simplificar un circuito, por muy grande que sea, en un circuito con una fuente de intensidad de valor intensidad de Norton IN en paralelo con una resistencia llamada Resistencia de Norton.
 
-![image](https://user-images.githubusercontent.com/105386939/176063205-01dd7cf2-8d86-4e5d-8275-d3e72b01af61.png)
+![image](https://user-images.githubusercontent.com/105386939/176520628-b6e8a6ff-961d-4270-b8b4-013a355b7207.png)
 
-Fuente de Corriente 
-
-Una fuente de corriente ideal es la que nos suministra una intensidad constante independientemente del valor de la tensión, sabemos que esto puede suceder en la realida y una fuente de corriente real estará constituida, por una fuente de corriente ideal con una resistencia interna conectada en paralelo.
-
-![image](https://user-images.githubusercontent.com/105386939/176063349-14fc2c7e-b5bb-4fbd-9ea2-760d828f885e.png)
 
 3. EXPLICACION Y RESOLUCION DE EJERCICIOS
    
@@ -104,9 +98,9 @@ Una fuente de corriente ideal es la que nos suministra una intensidad constante 
 
 5. CONCLUSIONES
 
-•	
+•	Debemos aprender a diferenciar que metodo nos beneficia mas usarlos para reducir el tiempo y los pasos usados en su resolucion
 
-•	
+•	Combinar procesos si es posible en la resolucion de los ejercicios
 
  
 6. BIBLIOGRAFIAS
