@@ -1,4 +1,4 @@
- Laboratorio No. 4 Analisis de nodos
+                                   DEBER Nº4
                                INFORMACIÓN GENERAL:
               DEPARTAMENTO: Eléctrica, Electrónica y Telecomunicaciones-DEEL
                       ÁREA DE CONOCIMIENTO: Sistemas Eléctricos-SEL
@@ -6,7 +6,7 @@
                    
      • NIVEL: Segundo Nivel
      • PERIODO ACADÉMICO: SII 202250
-     • INTEGRANTES:                 
+     • ALUMNO:                 
                    - FUENTES SALAS AARON DAVID         
                    
      • DOCENTE: DARWIN OMAR ALULEMA FLORES
