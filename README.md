@@ -101,9 +101,12 @@ El teorema de Norton nos dice que podemos simplificar un circuito, por muy grand
 •	Debemos aprender a diferenciar que metodo nos beneficia mas usarlos para reducir el tiempo y los pasos usados en su resolucion
 
 •	Combinar procesos si es posible en la resolucion de los ejercicios
+6. RUBRICA
+
+![image](https://user-images.githubusercontent.com/105386939/176893880-f040cee1-3fae-441d-8849-b5371c4fe3bc.png)
 
  
-6. BIBLIOGRAFIAS
+7. BIBLIOGRAFIAS
 
 LOYD, THOMAS L. Principios de circuitos eléctricos. Octava edición.
 
